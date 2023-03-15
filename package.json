@@ -1,5 +1,5 @@
 {
-  "name": "@behtarino/x-system-toolkit-utils",
+  "name": "@mostafarastegar/mr-package-builder",
   "version": "0.1.4",
   "license": "MIT",
   "main": "./build/index.js",
