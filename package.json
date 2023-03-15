@@ -12,10 +12,7 @@
   "files": [
     "build"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git@hamgit.ir:behtarino/x-system-toolkit/utils.git"
-  },
+
   "scripts": {
     "build": "rm -rf build && rollup -c --environment NODE_ENV:development",
     "build:prod": "rollup -c --environment NODE_ENV:production",
@@ -23,7 +20,7 @@
     "lint": "eslint --fix --ignore-path .eslintignore --ignore-pattern \"!**/.*\" ."
   },
   "publishConfig": {
-    "@behtarino:registry": "https://hamgit.ir/api/v4/projects/5466/packages/npm/"
+    "@mostafarastegar:registry": "https://gitlab.ir/api/v4/projects/xxxx/packages/npm/"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",
