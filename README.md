@@ -4,7 +4,7 @@ es6 typescript package builder with rollup
 
 
 # your method and script
-develop your package in src folder and import all export methods to src/index.ts
+develop your package in src folder and import all exported methods to src/index.ts
 
 # usage
 install dependency
